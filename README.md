@@ -4,6 +4,7 @@ Clearly acknowledged the work and efforts of others when submitting written work
 And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
+<br>
 Project Description:
 <br>
 The primary objective of our project was to analyze the relationship between COVID-19 cases/deaths both globally and in the United States with the U.S. Dollar and FAANG stocks. Given that for much of COVID-19 the FAANG stocks primarily carried the US stock market, we considered the FAANGs as an indicator of the market as a whole. Instead of creating a single, specific question, we created a broader question so that all graphs would fit within the scope of our project and so that our analysis would be more in-depth. Thus, we choose "What Relationships Exist Between COVID-19, the FAANGS, and the U.S. Dollar?" When looking through the notebook and slide deck, you will find analysis using line and scatter plots, linear regression, and supervised machine learning techniques. Overall our analysis revealed there was an initial increase in COVID cases with a downturn in the FAANGs, USD appreciation, and higher volatility. However, once the COVID curve began to flatten, the USD began to depreciate relative to foreign currencies and the FAANGs increased.
